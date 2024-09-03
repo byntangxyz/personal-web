@@ -60,6 +60,11 @@ body {
  	font-weight: bold;
  	text-transform: uppercase;
 }
+.konten {
+	max-width: 80%;
+	align-items: center;
+	margin: auto;
+}
 .deskripsi{
 	margin: 10px;
 	font-family: verdana, sans-serif;
@@ -75,10 +80,11 @@ body {
 	color: aquamarine;
 }
 .gambar1 {
-	height: 15rem;
+	height: 8rem;
 	aspect-ratio: 1/1;
 	border-radius: 25px;
 	float: left;
+	left: 0;
 }
 .gambar {
 	margin: 20px;
@@ -92,6 +98,9 @@ body {
 }
 .text p{
 	font-size: 14px;
+}
+.sosmed h3{
+	text-align: center;
 }
 .sosmed, .sekolah{
 	margin: 20px;

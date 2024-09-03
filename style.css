@@ -60,6 +60,11 @@ body {
  	font-weight: bold;
  	text-transform: uppercase;
 }
+.konten{
+	max-width: 80%;
+	align-items: center;
+	margin: auto;
+}
 .deskripsi{
 	margin: 10px;
 	font-family: verdana, sans-serif;
